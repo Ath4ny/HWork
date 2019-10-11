@@ -31,4 +31,6 @@ else{
 
 
 //$name = htmlspecialchars($_POST["name"]);
+//INSERT INTO `hw` (`Number`, `Login`, `Password`, `Hand`) VALUES (NULL, '2', '3', '');
+//DELETE FROM `hw` WHERE `hw`.`Number` = 1
 ?>
